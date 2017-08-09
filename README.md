@@ -1,6 +1,8 @@
 # WebPractDjango
 Django Application for movies and series.
 
+This work was made about Nil Agut, Jaume Giralt and me.
+
 ## How to run the application
 
 In order to run the application, you must run the command
